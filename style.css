@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(218, 218, 218);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 10%;
+}
+
+input {
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
